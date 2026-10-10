@@ -7,6 +7,14 @@ wipeout/robbery hazards also have moving model parts.
 **[View earlier model renders →](ART-PREVIEWS.md)** — these studio boards predate
 the latest Buenos Aires pass; use the in-game links below for its current art.
 
+## See the dancer obstacle immediately
+
+**[Open the tango dancers on the street →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&artPreview=tango)**
+
+The existing animated tango couple is a randomly selected wipeout crossing in
+normal runs. This labelled art preview repeats that crossing on the actual
+Buenos Aires street, with pause and replay controls. It places no bet.
+
 ## Buenos Aires: new city art pass
 
 Buenos Aires now has textured La Boca shopfronts and flower-filled balconies,

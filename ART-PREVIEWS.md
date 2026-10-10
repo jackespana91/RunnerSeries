@@ -1,5 +1,9 @@
 # Runnerz upgrade renders
 
+**[See the tango dancer obstacle in the street →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&artPreview=tango)**
+
+This dedicated preview repeats the animated crossing without starting a round.
+
 **Buenos Aires has a newer in-game art pass:**
 [La Boca](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-boca) · [San Telmo](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=san-telmo) · [La Avenida](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-avenida).
 
