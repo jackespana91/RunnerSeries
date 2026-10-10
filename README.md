@@ -1,5 +1,12 @@
 # Runnerz — city artwork preview
 
+## Continue development locally
+
+Open a local Codex task in your **runner** project and ask it to follow
+[LOCAL-HANDOFF.md](LOCAL-HANDOFF.md). The handoff includes pinned source/art-pack
+downloads, local startup commands and the remaining artwork work. The agent can
+fetch and unpack the source without replacing existing local changes.
+
 ## New city materials and lighting
 
 Five new painted material sheets now supply 30 surfaces for the solid street
