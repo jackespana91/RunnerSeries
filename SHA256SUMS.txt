@@ -1,2 +1,2 @@
-340ad1abbb4d340059591f57feb842a7f707394c1ca30d654cd70e8616dae6c9  Runnerz-Playable-Demo.zip
-a5f992c22fdb777ce2f0eb59245db15fb8cb91a937d9f6c3ab33483fb26ea1e0  Runnerz-Polished-Source.zip
+fc7da0f37c2d9c1fa4c576fd9bdf75a7d57fe3c1ef4b1f4ed710cb7bc6d79c5e  Runnerz-Playable-Demo.zip
+4837b2248395e2dedd1d6c152f9297b238236eb1c97292bead63d9a5518ea4dd  Runnerz-Polished-Source.zip

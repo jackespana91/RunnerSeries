@@ -1,11 +1,29 @@
-# Runnerz — animated 3D artwork preview
+# Runnerz — in-game artwork preview
 
 All 35 lane obstacles and seven additional traffic models now use animated 3D
 geometry across the five cities. Crossing riders, animals, carts, balls and
 wipeout/robbery hazards also have moving model parts.
 
-**[View pictures of the upgraded models →](ART-PREVIEWS.md)** — vehicles,
-street obstacles and crossing hazards, rendered from the actual game geometry.
+**[View earlier model renders →](ART-PREVIEWS.md)** — these studio boards predate
+the latest Buenos Aires pass; use the in-game links below for its current art.
+
+## Buenos Aires: new city art pass
+
+Buenos Aires now has textured La Boca shopfronts and flower-filled balconies,
+San Telmo arches and cafés, and a classical avenue with jacaranda blossom.
+Decorated colectivos, stocked kioscos, parrillas, café settings and awnings
+have their own animated solid models. Street pennants flutter and petals drift
+along the avenue sidewalks.
+
+Open a starting district in the actual game:
+
+- **[La Boca](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-boca)**
+- **[San Telmo](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=san-telmo)**
+- **[La Avenida](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-avenida)**
+
+These links start normal-speed play-money rounds with audio muted. AUTO stops
+further rounds. This pass compiled successfully; browser playthrough and phone
+performance review have not been performed. The runner retains the supplied art.
 
 ## See the upgrades in the actual game
 

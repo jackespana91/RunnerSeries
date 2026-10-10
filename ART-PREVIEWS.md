@@ -1,12 +1,17 @@
 # Runnerz upgrade renders
 
+**Buenos Aires has a newer in-game art pass:**
+[La Boca](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-boca) · [San Telmo](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=san-telmo) · [La Avenida](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-avenida).
+
+The studio boards below show the earlier 3D model pass and predate those Buenos Aires upgrades.
+
 **[See the upgrades in the actual London game →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=london&demoPreview=1)**
 
 The link opens the complete game with the runner and animated 3D obstacles on
 the street. It starts ordinary play-money rounds; press AUTO to stop them.
 The browser preview has not been visually verified in this session.
 
-These images show the actual 3D models used by the updated game, frozen during
+These images show the first-pass 3D game models, frozen during
 their animation. They were rendered directly from the model geometry with
 studio lighting. They are model renders; gameplay camera framing and lighting
 are different. Browser screenshots have not been captured for this art pass.
