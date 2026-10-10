@@ -1,5 +1,11 @@
 # Runnerz upgrade renders
 
+**[See the upgrades in the actual London game →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=london&demoPreview=1)**
+
+The link opens the complete game with the runner and animated 3D obstacles on
+the street. It starts ordinary play-money rounds; press AUTO to stop them.
+The browser preview has not been visually verified in this session.
+
 These images show the actual 3D models used by the updated game, frozen during
 their animation. They were rendered directly from the model geometry with
 studio lighting. They are model renders; gameplay camera framing and lighting

@@ -7,7 +7,21 @@ wipeout/robbery hazards also have moving model parts.
 **[View pictures of the upgraded models →](ART-PREVIEWS.md)** — vehicles,
 street obstacles and crossing hazards, rendered from the actual game geometry.
 
-## View the new artwork and play
+## See the upgrades in the actual game
+
+**[Open the London in-game preview →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=london&demoPreview=1)**
+
+This opens the complete playable game directly on London's street, with the
+runner, game camera and animated 3D obstacles. It starts up to ten ordinary
+play-money rounds at normal speed with sound muted. Press **AUTO** to stop the
+sequence; **RUN** starts another round. The city button opens the city selector
+after a round finishes. The first load includes about 24 MB of embedded assets.
+
+This link uses a public HTML preview service. Its browser loading and the new
+3D artwork have not been visually verified in this session. If your browser
+cannot open the preview service, the offline game below contains the same art.
+
+## Download the game and model viewer
 
 1. Download [Runnerz-Playable-Demo.zip](Runnerz-Playable-Demo.zip?raw=1).
 2. Extract the ZIP on your computer.
