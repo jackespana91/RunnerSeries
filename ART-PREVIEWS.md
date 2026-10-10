@@ -1,5 +1,9 @@
 # Runnerz upgrade renders
 
+**The latest game has a newer five-city material and lighting pass.**
+[Open the city links and read its scope](README.md). The images on this page
+predate that work and are not screenshots of the current game.
+
 **[See the tango dancer obstacle in the street →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&artPreview=tango)**
 
 This dedicated preview repeats the animated crossing without starting a round.

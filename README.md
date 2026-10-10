@@ -1,87 +1,75 @@
-# Runnerz — in-game artwork preview
+# Runnerz — city artwork preview
 
-All 35 lane obstacles and seven additional traffic models now use animated 3D
-geometry across the five cities. Crossing riders, animals, carts, balls and
-wipeout/robbery hazards also have moving model parts.
+## New city materials and lighting
 
-**[View earlier model renders →](ART-PREVIEWS.md)** — these studio boards predate
-the latest Buenos Aires pass; use the in-game links below for its current art.
+Five new painted material sheets now supply 30 surfaces for the solid street
+geometry. Each city has its own lighting, exposure and outline treatment, with
+soft nearby cast shadows and lit façade artwork. Buildings, windows, balconies
+and animated obstacles retain their volume.
 
-## See the dancer obstacle immediately
+| City | Applied surface work | Open the game |
+|---|---|---|
+| Buenos Aires | Red/celeste/ochre corrugated metal, aged cream plaster, limestone and café tiles | [La Boca](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-boca) |
+| London | Worn brick, glazed shop tiles, estate concrete, teal shutters and courtyard asphalt | [High Road](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=london&demoPreview=1&district=high-road) |
+| New York | Brownstone, rust/oxblood brick, bridge steel and deli tile | [Brownstones](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=newyork&demoPreview=1&district=brownstones) |
+| Rio | Coral/turquoise/lime plaster, terracotta roofs, mosaic paving and painted wood | [O Morro](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=rio&demoPreview=1&district=o-morro) |
+| Westside / The Hood | Peach/cream/mauve stucco, tan brick, garage metal and court paint; open court fencing | [The Boulevard](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=hood&demoPreview=1&district=the-boulevard) |
 
-**[Open the tango dancers on the street →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&artPreview=tango)**
+**[See the tango pair directly on the Buenos Aires street →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&artPreview=tango)**
 
-The existing animated tango couple is a randomly selected wipeout crossing in
-normal runs. This labelled art preview repeats that crossing on the actual
-Buenos Aires street, with pause and replay controls. It places no bet.
+The tango link repeats the existing crossing scene with pause and replay;
+it places no bet. Other links start up to ten normal-speed play-money rounds
+with sound muted; press **AUTO** to stop further rounds. The first load embeds
+about **28 MB**, including art, voices, fonts, game code and Three.js.
 
-## Buenos Aires: new city art pass
+This is a material and lighting pass. Character models, authored movement and
+remaining city architecture still need finishing. The current tango model is
+not a newly finished dancer asset. The build compiled on 10 October 2026;
+no tests, browser playthrough, fresh gameplay screenshots or phone performance
+review were performed for these changes.
 
-Buenos Aires now has textured La Boca shopfronts and flower-filled balconies,
-San Telmo arches and cafés, and a classical avenue with jacaranda blossom.
-Decorated colectivos, stocked kioscos, parrillas, café settings and awnings
-have their own animated solid models. Street pennants flutter and petals drift
-along the avenue sidewalks.
+## Artwork sources and finishing pack
 
-Open a starting district in the actual game:
+The five material sheets and four earlier menu covers were generated with
+**OpenAI image generation**. All 72 supplied original images are preserved.
+No Magnific enhancement has run, and the additional Higgsfield account library
+has not been inspected. New York, Rio and Westside no longer paste their menu
+covers into the street mural slots.
 
-- **[La Boca](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-boca)**
-- **[San Telmo](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=san-telmo)**
-- **[La Avenida](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=buenosaires&demoPreview=1&district=la-avenida)**
+- [City finishing brief](docs/CITY-ART-FINISH.md): distinct identity and remaining deliverables for each city.
+- [Runnerz-Art-Finish-Pack.zip](Runnerz-Art-Finish-Pack.zip?raw=1): 18 prepared enhancement jobs, 25 unchanged input/reference images and the briefs. These are unsubmitted jobs, not Magnific output.
+- [Asset provenance](docs/ASSET-SOURCES.md) and [build record](docs/VALIDATION.md).
 
-These links start normal-speed play-money rounds with audio muted. AUTO stops
-further rounds. This pass compiled successfully; browser playthrough and phone
-performance review have not been performed. The runner retains the supplied art.
+Magnific is registered in the cloud CLI, but its tools are not exposed to the
+active chat. Running those prepared jobs requires an authenticated, callable
+Magnific connection in the active Codex session. A browser login alone does
+not establish tool availability.
 
-## See the upgrades in the actual game
-
-**[Open the London in-game preview →](https://raw.githack.com/jackespana91/RunnerSeries/codex/runnerz-art-preview/Runnerz-In-Game.html?city=london&demoPreview=1)**
-
-This opens the complete playable game directly on London's street, with the
-runner, game camera and animated 3D obstacles. It starts up to ten ordinary
-play-money rounds at normal speed with sound muted. Press **AUTO** to stop the
-sequence; **RUN** starts another round. The city button opens the city selector
-after a round finishes. The first load includes about 24 MB of embedded assets.
-
-This link uses a public HTML preview service. Its browser loading and the new
-3D artwork have not been visually verified in this session. If your browser
-cannot open the preview service, the offline game below contains the same art.
-
-## Download the game and model viewer
+## Download and play offline
 
 1. Download [Runnerz-Playable-Demo.zip](Runnerz-Playable-Demo.zip?raw=1).
-2. Extract the ZIP on your computer.
-3. Open **`Runnerz-Art-Preview.html`** in Chrome, Edge, Firefox or Safari to
-   inspect each model. Choose a city and category, drag to rotate, scroll or
-   pinch to zoom, and pause the animation for a closer look.
-4. Open **`Runnerz-Demo.html`** to play. Choose a city and press **RUN**.
+2. Extract the ZIP and open **Runnerz-Demo.html** in a modern browser.
+3. Select a city and press **RUN**.
+4. Open **Runnerz-Art-Preview.html** for a separate rotatable obstacle-model viewer.
 
-Both files work offline. The art viewer opens on London's animated double-decker.
-Look for turning wheels, hinged bin lids, swaying cloth, warning lights,
-lowrider suspension, pedalling riders, running animals and flapping wings.
+Both files work offline. The model viewer shows model geometry; use the game
+to see city textures and lighting. All 35 lane obstacles and seven additional
+traffic models use animated geometry; crossing hazards also have moving parts.
+The supplied runner and background pedestrian images remain in use.
 
-This is a play-money demo and an initial 3D art pass. The supplied runner and
-background pedestrian images remain in use; environment artwork is still in
-progress. Supplied Higgsfield art is preserved as reference. No Magnific
-processing has been applied.
+Download [Runnerz-Polished-Source.zip](Runnerz-Polished-Source.zip?raw=1) for
+source, full-resolution generated texture masters, WebP delivery copies and
+reusable build/packaging tools. Supplied payout maths are unchanged; original
+Parts 2 and 3 still provide the publishing books. The demo awards no real money.
 
-**Build status:** the game and art viewer compiled successfully on 10 October
-2026. The latest 3D changes have not had a browser playthrough or phone
-performance check.
+[SHA256SUMS.txt](SHA256SUMS.txt) covers the game/source archives;
+[ART-FINISH-SHA256.txt](ART-FINISH-SHA256.txt) covers the finishing pack.
+GitHub's code viewer does not run HTML: use the preview links or extracted demo.
 
-## Source
+## Earlier images
 
-Download [Runnerz-Polished-Source.zip](Runnerz-Polished-Source.zip?raw=1) for the
-updated game, model factories, art viewer and development documentation.
-[SHA256SUMS.txt](SHA256SUMS.txt) lists both archive checksums. Supplied maths and
-payouts are unchanged; original Parts 2 and 3 still provide the publishing books.
+[Earlier model renders](ART-PREVIEWS.md) predate the latest material and lighting
+work and are not gameplay screenshots. The existing city-selection image below
+shows the menu covers only.
 
-The ZIP includes third-party notices and start instructions. GitHub's code
-viewer does not run HTML games: download and extract the ZIP first.
-
-## City-selection screen
-
-This existing lobby screenshot shows the city covers. Use the art viewer above
-to see the new animated models.
-
-![Runnerz city-selection screen](Runnerz-City-Selection.png)
+![Existing Runnerz city-selection screen](Runnerz-City-Selection.png)
