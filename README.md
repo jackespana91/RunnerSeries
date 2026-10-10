@@ -4,6 +4,9 @@ All 35 lane obstacles and seven additional traffic models now use animated 3D
 geometry across the five cities. Crossing riders, animals, carts, balls and
 wipeout/robbery hazards also have moving model parts.
 
+**[View pictures of the upgraded models →](ART-PREVIEWS.md)** — vehicles,
+street obstacles and crossing hazards, rendered from the actual game geometry.
+
 ## View the new artwork and play
 
 1. Download [Runnerz-Playable-Demo.zip](Runnerz-Playable-Demo.zip?raw=1).
